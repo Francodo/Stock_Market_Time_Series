@@ -24,7 +24,8 @@ Python Pandas
 Matplotlib												
 Jupyter Notebook											
 TensorFlow											
-Data file (all_stocks_5yr.csv)	
+Data file (all_stocks_5yr.csv)
+Database - Postgres
 
 Exploratory and Preprocessing
 
@@ -43,6 +44,8 @@ Column objects or features of this data are:
 	
 In order to ensure our data sample is not overly or extremely skewed, it needs to be normalized. This step in the process converts all input data to what the computer can interpret, zeros and ones. Furthermore, the data is standardized using the Python Pandas StandardScaler. 
 
+Machine Learning Model
+..........?
 
 Code Plan
 
