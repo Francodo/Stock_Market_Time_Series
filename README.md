@@ -12,7 +12,7 @@ Objective
 
 The objective is to demonstrate the application of every key aspect of data analysis techniques working with Time Series Stock Data collected over a period of five years. The analysis provides answers to key performance index questions through classification using Neural Network and Deep Learning predictive algorithms.
 
-Question to which answers are offered
+Questions to which answers are offered
 
 •	Trend - Is there an upward or downward trend?
 •	Pattern - Is there a pattern over a period of time?
