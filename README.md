@@ -10,7 +10,7 @@ Trading stocks in the stock market is a decision-based activity that relies heav
 
 Objective
 
-The focus of this analysis is on using statistical data and charts to identify trends in the performance of a selected stock in the dataset. The objective is to demonstrate the application of every key aspect of data analysis techniques working with Time Series Stock Data collected over a period of five years. The analysis provides answers to key performance index questions through regression using Neural Network and Deep Learning predictive algorithms.
+The focus of this analysis is on using statistical data and charts to identify trends in the performance of a selected stock in the dataset. The objective is to demonstrate the application of every key aspect of data analysis techniques working with Time Series Stock Data collected over a period of five years. The analysis provides answers to key performance index questions using multiple algorithms such as Logistic Regression, Neural Network and Random Forest Classifier.
 
 Questions to which answers are offered
 
