@@ -1,0 +1,11 @@
+CREATE TABLE aal_stocks (
+    date_ varchar,
+    open_ varchar,
+    high_ varchar,
+	low_ varchar,
+	close_ varchar,
+	volume_ varchar,
+	name_ varchar
+	);
+	
+	select * from aal_stocks;
