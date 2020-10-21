@@ -58,23 +58,23 @@ Prepare the RDS system to store data. The PostgresSQL database is used in this e
 	6. Install “!pip install ipython-sql”, load the dependencies for sql “from sqlalchemy import create_engine”
 
 Code Plan
-1.	Read in the data in Jupyter Notebook  using  pd.read_sql_table('aal_stocks',engine)
-2.	Format date aal_stocks_df["date_"] = (pd.to_datetime(aal_stocks_df['date_'].values))
-3.	Check to see if there are null values or missing data 
-4.	Generate categorical variable list
-5.	Check the number of unique values in each column
-6.	Create a OneHotEncoder instance
-7.	Merge one-hot encoded features and drop the originals
-8.	Drop Nas and nulls
-9.	Standardize data with StandardScaler
-10.	Normalise the data to be processed
-11.	Split into features and target arrays (X and Y, train and test)
-12.	Create a StandardScaler instance
-13.	Scale the data
-14.	Create a Linear Regression model
-15.	Fit the model
-16.	Predict "y"
-17.	Print the coefficient of determination, Intercept, Slope and the predicted output
+	1.	Read in the data in Jupyter Notebook  using  pd.read_sql_table('aal_stocks',engine)
+	2.	Format date aal_stocks_df["date_"] = (pd.to_datetime(aal_stocks_df['date_'].values))
+	3.	Check to see if there are null values or missing data 
+	4.	Generate categorical variable list
+	5.	Check the number of unique values in each column
+	6.	Create a OneHotEncoder instance
+	7.	Merge one-hot encoded features and drop the originals
+	8.	Drop Nas and nulls
+	9.	Standardize data with StandardScaler
+	10.	Normalise the data to be processed
+	11.	Split into features and target arrays (X and Y, train and test)
+	12.	Create a StandardScaler instance
+	13.	Scale the data
+	14.	Create a Linear Regression model
+	15.	Fit the model
+	16.	Predict "y"
+	17.	Print the coefficient of determination, Intercept, Slope and the predicted output
 
 Visualization
 
