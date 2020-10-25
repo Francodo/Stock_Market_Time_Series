@@ -1,0 +1,51 @@
+
+PROJECT DESCRIPTION
+Application of machine learning techniques to time series stock data.
+
+OBJECTIVE
+The objective is to demonstrate the application of key aspects of data analysis techniques working with Time Series Stock Data collected over a period of time. The analysis provides answers to key performance index questions using Linear Regression and Neural Network models.The focus of the analysis is on using statistical data and charts to identify trends in the performance of a selected stock in the dataset.
+
+CONTRIBUTION TO THE PROJECT 
+I worked as an indivividual on the project(solo)
+
+	• Preliminary investigation includes research on Time Series Data and the application of statistical analysis and modeling, 		          identifying the appropriate dataset and studying the structure of this particular type of dataset from Kaggle.com.
+
+	• The exploratory phase of the project involves observing the features, rows, colums and length of the data. Further, the dataset 		  was inspected for missing data or others refered to as NANs. Gathering the requirements for the Linear Regression model.
+
+	• The setup of the development environment in Jupyter Notebook and PostgresSQL Database, which includes downloading and loading the 	  data into RDS with proper table created.
+
+	• Code development for preprocessing, analysis and model development
+
+	• Visualization - a graphical representation of the input and output data from the machine learning model
+
+	• Development of presentation material (Dashboard with slides)
+
+	• The project report including readme.md
+
+	• Uploading all project files to Github
+	
+	• Presentation
+
+THE MOST DIFFICULT CHALLENGE 
+ime series stock data by nature is collected daily(M-F) for the year. Typically, the data sample is over a period of time. In this case 5 years, and for a number of Ticker Symbol. As a result the data is large and require lots of computer processing resources. The database and the computer crashed several times. It was not possible to manipulate data successfully in Pandas.
+I tried to use the Google colab for the development, but the data size and the processing requirement exceed the limit allowed for free.
+
+HOW I OVERCAME THE CHALLENGE
+The search for a smaller size data was not successful. Therefore, I decided to trim the data down several times until the  I reached a level suitable for the computer processing power and Jupyter Notebook, as well as, PostgreSQL Database.
+
+Future recommendation for anyone taking on this type of task will be to consider the size of data or be prepared to pay for more processing power on AWS or Google.
+
+Personally, my strength is in problem solving ability and good communication skills.
+
+
+PROJECT and ELEVATOR PITCH
+I am a systems applications and product specialist focusing on and data analytical application products.
+
+I recently completed a data analytics bootcamp at UC Berkeley where I acquired extensive knowledge of machine learning and natural language processing techniques. Also, I developed a wide range of practical experience in data mining, extraction, transformation, loading and data visualization along with SQL database integration.
+
+During my training, and among other projects, I developed a Python Pandas simulation of machine learning application using Linear Regression and Neural Network model with Time Series Data. The project was a success with about 90% coefficient of determination for stock price prediction.
+
+
+
+
+ 
