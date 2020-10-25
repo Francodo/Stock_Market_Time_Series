@@ -5,7 +5,7 @@ Application of machine learning techniques to time series stock data.
 OBJECTIVE
 The objective is to demonstrate the application of key aspects of data analysis techniques working with Time Series Stock Data collected over a period of time. The analysis provides answers to key performance index questions using Linear Regression and Neural Network models.The focus of the analysis is on using statistical data and charts to identify trends in the performance of a selected stock in the dataset.
 
-CONTRIBUTION TO THE PROJECT 
+CONTRIBUTIONS TO THE PROJECT 
 I worked as an indivividual on the project(solo)
 
 	• Preliminary investigation includes research on Time Series Data and the application of statistical analysis and modeling, 		          identifying the appropriate dataset and studying the structure of this particular type of dataset from Kaggle.com.
